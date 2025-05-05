@@ -41,6 +41,6 @@ You can learn more about my broader project here: *OmniCore Dynamics*.
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/jonashoglundtester)
 - 💻 [GitHub](https://github.com/FireRay)
 - 📫 DM me here on GitHub or via LinkedIn
