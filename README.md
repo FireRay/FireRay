@@ -5,15 +5,13 @@ Quality Engineer focused on API testing, software quality, and building reliable
 
 I have 3+ years of experience in software testing across manual testing, API testing, localization testing, and agile quality assurance. I'm currently expanding my skills in automation while building practical QA projects using Postman, GitHub, Java, and Playwright.
 
-Current Focus
-REST API Testing
-Postman Test Automation
-Quality Engineering
-Software Testing
-Java & Playwright
-CI/CD fundamentals
-Featured Projects
-RESTful Booker API Test Suite
+## Current Focus
+
+- REST API Testing
+- Postman
+- Test Automation
+- Quality Engineering
+- Java & Playwright
 
 Reusable Postman test suite demonstrating:
 
