@@ -1,11 +1,12 @@
 # 🔥 Jonas Höglund | QA Engineer
 
-👋 Hi, I'm Jonas Höglund
-Quality Engineer focused on API testing, software quality, and building reliable systems.
+👋 Hi, I'm Jonas Höglund, a Quality Engineer focused on API testing, software quality, and building reliable systems.
 
-I have 3+ years of experience in software testing across manual testing, API testing, localization testing, and agile quality assurance. I'm currently expanding my skills in automation while building practical QA projects using Postman, GitHub, Java, and Playwright.
+I have 3+ years of experience in software testing across manual testing, API testing, localization testing, and agile quality assurance. I'm currently expanding my automation skills while building practical QA projects using Postman, GitHub, Java, and Playwright.
 
-## Current Focus
+---
+
+## 🎯 Current Focus
 
 - REST API Testing
 - Postman
@@ -13,43 +14,56 @@ I have 3+ years of experience in software testing across manual testing, API tes
 - Quality Engineering
 - Java & Playwright
 
+---
+
+## 🚀 Featured Projects
+
+### RESTful Booker API Test Suite
+
 Reusable Postman test suite demonstrating:
 
-CRUD testing
-Authentication
-Automated assertions
-Response validation
-API workflow verification
-Genesis
+- CRUD testing
+- Authentication
+- Automated assertions
+- Response validation
+- API workflow verification
+
+### Genesis
 
 Android application currently under development.
 
-FHIR API Practice
+### FHIR API Practice
 
 Learning healthcare interoperability through practical API testing using the FHIR standard.
 
-Technologies
+---
 
-Testing
+## 🛠️ Technologies
 
-Postman
-REST APIs
-Jira / Xray
-Manual Testing
-API Testing
+### Testing
 
-Development
+- Postman
+- REST APIs
+- API Testing
+- Manual Testing
+- Jira / Xray
 
-Java
-SQL
-Git
-Playwright (learning)
-Interests
+### Development
+
+- Java
+- SQL
+- Git
+- Playwright *(learning)*
+
+---
+
+## ❤️ Interests
 
 I'm particularly interested in software quality within healthcare, medical devices, biotech, and other regulated industries where reliable software has a meaningful impact.
 
+---
+
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/jonashoglundtester)
-- 💻 [GitHub](https://github.com/FireRay)
-- 📫 DM me here on GitHub or via LinkedIn
+- 💼 **LinkedIn:** https://linkedin.com/in/jonashoglundtester
+- 📫 Feel free to connect with me on LinkedIn or reach out here on GitHub.
