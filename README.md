@@ -1,43 +1,54 @@
-# 🔥 Jonas Höglund | QA Engineer & Fintech Enthusiast
+# 🔥 Jonas Höglund | QA Engineer
 
-Hi, I’m **Jonas**, a QA engineer with 3+ years of experience in manual and automation testing. I’m passionate about building reliable software, exploring trading platforms, and making QA faster, smarter, and more fun.
+👋 Hi, I'm Jonas Höglund
+Quality Engineer focused on API testing, software quality, and building reliable systems.
 
-My current focus is on:
-- 🧪 **API Testing** (Postman, REST, JSON)
-- 🤖 **Automation Testing** (Selenium, WebDriver IO, Java)
-- 📈 **Fintech Projects** — I’m learning to test financial tools and simulate trading systems
-- 🚀 **Efficiency and Precision** — delivering high-quality results that scale
+I have 3+ years of experience in software testing across manual testing, API testing, localization testing, and agile quality assurance. I'm currently expanding my skills in automation while building practical QA projects using Postman, GitHub, Java, and Playwright.
 
----
+Current Focus
+REST API Testing
+Postman Test Automation
+Quality Engineering
+Software Testing
+Java & Playwright
+CI/CD fundamentals
+Featured Projects
+RESTful Booker API Test Suite
 
-## ⚙️ Tech I’m Working With
+Reusable Postman test suite demonstrating:
 
-- **Languages:** Java (beginner–intermediate), JavaScript, C#, SQL  
-- **Tools:** Postman, Selenium, WebDriver IO, JUnit, Git  
-- **Environments:** Agile/Scrum, Web Apps, APIs, Mobile  
-- **Currently learning:** CI/CD pipelines, performance testing, and basic financial APIs
+CRUD testing
+Authentication
+Automated assertions
+Response validation
+API workflow verification
+Genesis
 
----
+Android application currently under development.
 
-## 🛠️ Featured Projects
+FHIR API Practice
 
-| Repo | Description |
-|------|-------------|
-| [MrTakeYourFaceOff](https://github.com/FireRay/MrTakeYourFaceOff) | An early C# project with creative testing logic and input validation |
-| [report-bug-work](https://github.com/FireRay/report-bug-work) | Real-world QA reporting examples with structured feedback |
-| *(Coming soon)* Genesis | Test suite for a mock trading API in Java/Postman |
+Learning healthcare interoperability through practical API testing using the FHIR standard.
 
-✨ More QA-focused repos and fintech experiments will be added soon — stay tuned!
+Technologies
 
----
+Testing
 
-## 👁 Vision
+Postman
+REST APIs
+Jira / Xray
+Manual Testing
+API Testing
 
-I’m building a career around **precision, clarity, and meaningful systems** — especially in the world of finance and simulation. My long-term dream is to build tools that empower developers, traders, and curious minds alike.
+Development
 
-You can learn more about my broader project here: *OmniCore Dynamics*.
+Java
+SQL
+Git
+Playwright (learning)
+Interests
 
----
+I'm particularly interested in software quality within healthcare, medical devices, biotech, and other regulated industries where reliable software has a meaningful impact.
 
 ## 📬 Let's Connect
 
