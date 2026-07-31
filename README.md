@@ -65,5 +65,5 @@ I'm particularly interested in software quality within healthcare, medical devic
 
 ## 📬 Let's Connect
 
-- 💼 **LinkedIn:** https://linkedin.com/in/jonashoglundtester
+- 💼 [LinkedIn](https://linkedin.com/in/jonashoglundtester)
 - 📫 Feel free to connect with me on LinkedIn or reach out here on GitHub.
